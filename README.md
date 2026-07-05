@@ -9,6 +9,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0009-palindrome-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0263-ugly-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -26,4 +27,12 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
