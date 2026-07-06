@@ -11,6 +11,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
