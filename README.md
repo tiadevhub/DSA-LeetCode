@@ -12,6 +12,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
