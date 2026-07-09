@@ -38,6 +38,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
