@@ -34,6 +34,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0027-remove-element/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
