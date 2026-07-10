@@ -12,6 +12,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -21,6 +22,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,12 +52,14 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -78,4 +83,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
