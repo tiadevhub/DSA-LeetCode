@@ -56,6 +56,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0069-sqrtx](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0033-search-in-rotated-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
