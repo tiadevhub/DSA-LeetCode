@@ -7,6 +7,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -70,6 +71,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0033-search-in-rotated-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
