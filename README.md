@@ -34,6 +34,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -105,6 +107,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
