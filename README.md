@@ -32,6 +32,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -73,6 +74,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0035-search-insert-position](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -102,10 +104,19 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
