@@ -106,6 +106,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +170,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
