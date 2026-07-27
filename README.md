@@ -44,6 +44,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0643-maximum-average-subarray-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -168,6 +170,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
