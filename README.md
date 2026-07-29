@@ -46,6 +46,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -57,6 +58,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0189-rotate-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0209-minimum-size-subarray-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -104,6 +107,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -158,6 +162,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
