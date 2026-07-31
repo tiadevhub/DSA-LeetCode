@@ -96,6 +96,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -130,6 +131,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -237,4 +239,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
