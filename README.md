@@ -19,6 +19,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -68,6 +69,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -138,6 +140,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
