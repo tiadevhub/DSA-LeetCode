@@ -6,6 +6,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
@@ -36,6 +37,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
@@ -272,6 +274,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
