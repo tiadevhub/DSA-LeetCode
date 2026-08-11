@@ -94,6 +94,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -118,6 +119,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0054-spiral-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -243,6 +245,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0048-rotate-image](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
