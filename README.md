@@ -311,3 +311,6 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
+
+## Daily DSA Progress
+- Practiced LeetCode problems today.
