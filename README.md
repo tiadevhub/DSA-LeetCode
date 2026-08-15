@@ -1,3 +1,8 @@
+## Daily DSA Progress
+
+- Continued practicing Java and DSA concepts.
+- Revised String, StringBuilder, HashSet and HashMap concepts.
+- Practiced matrix and array-based problems.
 # DSA-LeetCode
 LeetCode solutions, DSA practice, and coding interview preparation.
 
