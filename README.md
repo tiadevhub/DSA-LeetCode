@@ -1,3 +1,4 @@
+today is rest
 ## Daily DSA Progress
 
 - Continued practicing Java and DSA concepts.
