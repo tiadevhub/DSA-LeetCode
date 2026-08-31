@@ -319,6 +319,10 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Daily DSA Progress
