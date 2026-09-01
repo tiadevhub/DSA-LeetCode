@@ -65,6 +65,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1572-matrix-diagonal-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
