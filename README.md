@@ -27,6 +27,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
@@ -90,6 +91,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0054-spiral-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -177,6 +179,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0443-string-compression/) | Medium |
