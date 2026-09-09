@@ -183,6 +183,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0551-student-attendance-record-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
