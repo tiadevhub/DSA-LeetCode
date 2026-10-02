@@ -311,6 +311,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
