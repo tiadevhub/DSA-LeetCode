@@ -48,6 +48,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -262,6 +264,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -315,6 +318,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
