@@ -92,6 +92,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0443-string-compression](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +324,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
