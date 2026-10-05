@@ -58,6 +58,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -83,6 +84,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0027-remove-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -323,6 +325,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -366,6 +369,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Daily DSA Progress
