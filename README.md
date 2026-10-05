@@ -93,6 +93,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0557-reverse-words-in-a-string-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
