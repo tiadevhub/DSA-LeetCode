@@ -45,6 +45,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -86,6 +87,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0061-rotate-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -273,6 +275,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
@@ -328,6 +331,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
