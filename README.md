@@ -329,6 +329,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
