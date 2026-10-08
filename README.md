@@ -19,6 +19,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -217,12 +218,14 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
