@@ -40,6 +40,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -157,6 +158,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0066-plus-one](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -390,6 +392,10 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Daily DSA Progress
