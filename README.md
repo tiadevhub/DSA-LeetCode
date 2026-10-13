@@ -56,6 +56,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0206-reverse-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -289,6 +291,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
