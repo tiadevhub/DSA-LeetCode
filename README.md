@@ -144,6 +144,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0704-binary-search](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -310,6 +312,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0074-search-a-2d-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
