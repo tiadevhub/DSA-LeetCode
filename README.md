@@ -221,6 +221,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0771-jewels-and-stones](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
