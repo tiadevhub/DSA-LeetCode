@@ -79,6 +79,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -217,6 +218,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0557-reverse-words-in-a-string-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
