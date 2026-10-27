@@ -26,6 +26,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -73,6 +74,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0205-isomorphic-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -237,6 +239,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
@@ -333,6 +336,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
