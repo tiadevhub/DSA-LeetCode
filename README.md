@@ -10,8 +10,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
@@ -38,16 +38,16 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
@@ -60,8 +60,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0394-decode-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
@@ -87,8 +87,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -113,8 +113,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
@@ -125,12 +125,12 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1920-build-array-from-permutation](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -149,8 +149,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -198,8 +198,8 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1929-concatenation-of-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0013-roman-to-integer/) | Easy |
@@ -230,13 +230,13 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0319-bulb-switcher](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -244,20 +244,20 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -268,25 +268,25 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -298,23 +298,23 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0143-reorder-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -325,36 +325,37 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tiadevhub/DSA-LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [1046-last-stone-weight](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -374,46 +375,54 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0876-middle-of-the-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Z Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Boyer–Moore String-Search Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Impartial Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Manacher
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
 
 ## Daily DSA Progress
