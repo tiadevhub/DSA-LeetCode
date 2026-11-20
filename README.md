@@ -107,6 +107,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0189-rotate-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -267,6 +268,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0217-contains-duplicate](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -347,6 +349,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -431,10 +434,12 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
