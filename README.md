@@ -33,6 +33,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0412-fizz-buzz](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -186,6 +187,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -269,6 +271,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0349-intersection-of-two-arrays](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Interactive
 |  |
@@ -281,6 +284,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0169-majority-element](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +348,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
@@ -351,6 +356,7 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiadevhub/DSA-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -434,6 +440,14 @@ LeetCode solutions, DSA practice, and coding interview preparation.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tiadevhub/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
 
 ## Daily DSA Progress
